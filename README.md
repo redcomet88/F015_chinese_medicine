@@ -1,5 +1,6 @@
-# F015_chinese_medicine  neo4j知识图谱 Vue+flask 中药中医方剂大数据可视化系统【附1.2万字文档】
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+# F015  neo4j知识图谱 Vue+flask 中药中医方剂大数据可视化系统【附1.2万字文档】
+
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 ## 视频讲解
